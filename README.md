@@ -56,9 +56,9 @@ Streamlit Chat Interface
 
 ## Screenshots
 
-![Chat Interface](screenshots/Chat 1.png)
-![Chat Interface 2](screenshots/Chat 2.png)
-![Chat Interface 3](screenshots/Chat 3.png)
+![Chat Interface](screenshots/Chat_1.png)
+![Chat Interface 2](screenshots/Chat_2.png)
+![Chat Interface 3](screenshots/Chat_3.png)
 ---
 
 ## How to Run
